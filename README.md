@@ -82,7 +82,7 @@ python scripts/run_all.py
 
 ---
 
-## 🧠 Conclusiones (para el informe)
+## 🧠 Conclusiones
 - El churn tiende a **concentrarse** en clientes con **contrato mes a mes** y **pago con cheque electrónico**; **fiber optic** suele mostrar mayor churn que DSL/No Internet.
 - **Hipótesis:** alta fricción de pago, baja inercia contractual y expectativas de calidad/precio impulsan la evasión.
 - **Recomendaciones:** 
