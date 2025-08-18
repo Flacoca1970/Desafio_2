@@ -1,4 +1,4 @@
-# Desafío 2 — Telecom X (Colab-only)
+# Desafío 2 — Telecom X 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flacoca1970/Desafio_2/blob/main/notebooks/TelecomX_LATAM_colab.ipynb)
 
