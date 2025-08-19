@@ -8,7 +8,7 @@ Flujo: **ETL → EDA → Modelado (GridSearch) → Calibración → Umbral de ne
 
 ---
 
-## 1) Resumen ejecutivo (con resultados reales de tu corrida)
+## 1) Resumen ejecutivo (con resultados reales de la ejecución previa)
 
 - **Filas**: 7,267 | **Columnas**: 21  
 - **Churn global**: **26.54%**
