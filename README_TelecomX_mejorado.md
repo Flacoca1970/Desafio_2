@@ -171,7 +171,7 @@ Con `VALUE_RETAIN=100` y `COST_CONTACT=5`, el **umbral óptimo** fue `t=0.030`, 
 ## 10) Export a CRM (lista lista para acción)
 
 El notebook genera **`/content/reports/clientes_en_riesgo_topN.csv`** con: `customerID`, `churn_score`, `flag_churn_risk` y atributos clave (contrato, pago, internet, tenure).  
-Ordena por `churn_score` desc y **cárgalo al CRM** para priorizar llamadas/WhatsApp/email según el **playbook del segmento**.
+Ordena por `churn_score` desc y **cárgalo al CRM** para por ejemplo priorizar llamadas/WhatsApp/email según el **playbook del segmento**.
 
 ---
 
