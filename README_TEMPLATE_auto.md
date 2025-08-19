@@ -1,6 +1,7 @@
-# Desafío Telecom X — Churn (Colab-only)
+# Desafío Telecom X — Churn (Solo para Colab)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flacoca1970/Desafio_2/blob/main/notebooks/TelecomX_LATAM_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flacoca1970/Desafio_2/blob/main/TelecomX_LATAM_colab.ipynb)
+
 
 Este proyecto entrega un **pipeline 100% en Google Colab** que ejecuta: **ETL → EDA → Modelado con GridSearch → Calibración (Platt/Isotónica) → Curva de ganancia y umbral de negocio → Informe automático + lista de clientes en riesgo (Top N)**.
 Está escrito para que **Ventas/CS/Marketing** entiendan **qué hacer** con los resultados y **cómo activarlos** en campañas.
