@@ -1,7 +1,7 @@
 # Desafío Telecom X — Análisis de Churn (Colab-only)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flacoca1970/Desafio_2/blob/main/TelecomX_LATAM_colab.ipynb)
-> *Si mueves el notebook a `/notebooks/`, cambia el enlace del badge a `/blob/main/notebooks/TelecomX_LATAM_colab.ipynb`.*
+
 
 Este proyecto entrega un **pipeline 100% en Google Colab** y explica de forma **técnica y de negocio** cómo usarlo para **reducir la evasión de clientes (churn)**.  
 Flujo: **ETL → EDA → Modelado (GridSearch) → Calibración → Umbral de negocio y Ganancia → Informe automático → Export Top N para CRM**.
