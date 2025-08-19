@@ -87,7 +87,7 @@ Flujo: **ETL → EDA → Modelado (GridSearch) → Calibración → Umbral de ne
 
 ---
 
-## 5) Modelado — cómo comparamos y por qué ganó `gb`
+## 5) Modelado — cómo comparamos y por qué ganó `gb` (GradientBoosting)
 
 - **Split** estratificado: 80/20 (sin data leakage).  
 - **Preprocesamiento** con `ColumnTransformer`: imputación (mediana/moda), *scaling* para numéricas y *One-Hot* para categóricas.  
