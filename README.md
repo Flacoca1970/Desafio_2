@@ -1,4 +1,4 @@
-# Desafío Telecom X — Churn (Colab-only)
+# Desafío Telecom X — Churn (Solo para Colab)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flacoca1970/Desafio_2/blob/main/notebooks/TelecomX_LATAM_colab.ipynb)
 
